@@ -1,0 +1,2 @@
+SENDER_WALLET = ""
+PRIVATE_KEY = ""
